@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dino</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
 
-- 🔭 I’m currently working on **my-portefolio**
+- 🔭 I’m currently working at **Prestashop** for my internship
 
-- 🌱 I’m currently learning **JavaScript,Typescript**
+- 🌱 I’m currently learning **Vue.js 3,Typescript**
 
 - 👨‍💻 All of my projects are available at [comming soon](comming soon)
 
