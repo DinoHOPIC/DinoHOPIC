@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Prestashop** for my internship
 
-- 🌱 I’m currently learning **Vue.js 3,Typescript**
+- 🌱 I’m currently learning **Vue.js 3,Typescript, Nest JS**
 
 - 👨‍💻 All of my projects are available at [comming soon](comming soon)
 
