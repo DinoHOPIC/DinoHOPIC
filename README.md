@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dino</h1>
-<h3 align="center">A passionate fullstack developer from France</h3>
+<h3 align="center">A passionate Front-end developer from France</h3>
 
 - 🔭 I’m currently working on **form-project**
 
